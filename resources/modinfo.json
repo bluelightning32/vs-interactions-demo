@@ -1,11 +1,11 @@
 {
 	"type": "code",
-	"name": "Dimensions Demo",
-	"modid": "lambda",
+	"name": "Block Interactions Demo",
+	"modid": "interactions",
 	"version": "1.0.0",
 	
-	"description" : "Demo for the Mini Dimensions functionality.",
-	"website": "https://github.com/bluelightning32/vs-dimensions-demo",
+	"description" : "Demo for the block interaction events.",
+	"website": "https://github.com/bluelightning32/vs-interactions-demo",
 	"authors": [ "bluelightning32" ],
 	
 	"dependencies": {

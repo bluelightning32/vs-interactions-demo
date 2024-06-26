@@ -20,7 +20,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="../dimensions.csproj">
+    <ProjectReference Include="../interactions.csproj">
       <Targets>Build</Targets>
     </ProjectReference>
   </ItemGroup>

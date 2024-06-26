@@ -1,6 +1,6 @@
-# Vintage Story Dimensions Demo
+# Vintage Story Block Interactions Demo
 
-This mod shows and tests the behavior of Vintage Story dimensions, especially the Mini Dimensions.
+This mod shows which interaction events are fired when a block is right clicked.
 
 ## Building
 

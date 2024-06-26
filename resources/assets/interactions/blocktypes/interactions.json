@@ -1,0 +1,9 @@
+{
+  code: "interactions",
+  drawtype: "cube",
+  creativeinventory: { "meta": ["*"] },
+  blockmaterial: "Meta",
+  textures: {
+    all: { base: "interactions" }
+  },
+}

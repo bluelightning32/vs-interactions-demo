@@ -11,5 +11,9 @@ public class InteractionsSystem : ModSystem {
   private ICoreAPI _api;
   public override void Start(ICoreAPI api) {
     _api = api;
+    api.RegisterBlockClass(nameof(Blocks.LogInteractions),
+                           typeof(Blocks.LogInteractions));
+    api.RegisterItemClass(nameof(Items.LogInteractions),
+                           typeof(Items.LogInteractions));
   }
 }
